@@ -24,6 +24,7 @@ To get started with this project, follow the installation instructions and explo
 ## Demo
 https://github.com/ashita03/Renewable-Energy-Data-Analysis-Dashboard/assets/66629830/8fce5663-6424-4e32-8820-0262226a022f
 
-* If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request
+
+> If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request
 
 
